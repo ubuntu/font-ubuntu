@@ -1,0 +1,22 @@
+{
+  "name": "font-ubuntu",
+  "version": "1.0.0",
+  "description": "An HTML import for Ubuntu",
+  "authors": [
+    "Didier Roche <didrocks@ubuntu.com>"
+  ],
+  "keywords": [
+    "font",
+    "ubuntu"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ubuntu/font-ubuntu-polymer.git"
+  },
+  "main": "font-ubuntu.html",
+  "license": "http://font.ubuntu.com/licence/",
+  "homepage": "https://github.com/ubuntu/font-ubuntu-polymer/",
+  "ignore": [
+    "/.*"
+  ]
+}
