@@ -1,6 +1,6 @@
 # font-ubuntu
 Polymer imports for ubuntu fonts.
-More infos at http://font.ubuntu.com/.
+More info at http://font.ubuntu.com/.
 
 ## usage
 This package provides multiple version of the fonts, so that you can select the best version depending on the family, weight and style you are willing to download:
